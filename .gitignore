@@ -1,0 +1,16 @@
+*.xpr
+*.log
+*.jou
+*.pb
+*.str
+*.wdb
+*.dir/
+.Xil/
+*.runs/
+*.sim/
+*.cache/
+*.hw/
+*.ip_user_files/
+!*.sv
+!*.v
+!*.xdc
